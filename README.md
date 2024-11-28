@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Hamza-hkz/Hamza-hkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ghost-hkzgoat-hkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
